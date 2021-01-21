@@ -52,3 +52,7 @@ Premake5.exe
 
 # VS code
 .vscode/
+
+# Artefacts
+bin/
+obj/
